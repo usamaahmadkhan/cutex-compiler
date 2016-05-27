@@ -1,0 +1,8 @@
+var
+DIGIT
+RATIONAL
+ACQUIRE
+DISPLAY
+fi
+elif
+loop
