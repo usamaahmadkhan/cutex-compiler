@@ -6,6 +6,13 @@ Cutex compiler is just a study project which combines my effort of learning how 
 <b>WARNING:</b>  
 Code is highly uncommented  
 
+<b>MODULES</b>   
+Lexer: Performs lexical analysis and generate token table   
+Parser: Pareses the token table for valid statements using grammar functions
+
+<b>FUTURE MODULES</b>   
+Coder: will generate assembly code for the given source code
+
   All Commits are welcome.
   
   
